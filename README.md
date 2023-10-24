@@ -7,6 +7,5 @@ instructions which is being mentioned below.
 
 Instructions: 
 ---------------------------------------------------------------------------------
-You can use this project if you want to just you have to change the API key as it 
-will be expiring shortly.
+You have to change the API key as it will be expiring shortly.
 ---------------------------------------------------------------------------------
